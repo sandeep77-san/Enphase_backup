@@ -1,0 +1,28 @@
+Mid term question paper
+
+	1. Name 5 componenst of computer?
+    3. Name 4 inbuild python functions?
+     3. what is type casting in python and explain with one example?
+     4. Create a infinite loop in python using loop function( pseduo code)
+	5. Write pesudo code to swap Two Numbers using Temporary Variable
+	Ex: a=3, b=4, the program should return a=4 and b=3
+	
+	
+	
+	 2*10 ( answe any two questions)
+	1st question
+1. Name 5 diffrence in features of  between C and python ?
+Exaplin each item and its syntax and declare and example with its syntax
+	1. Numeric data type ( int , float)
+	2. strings
+	3. Lists
+	4. Tuples
+	5. Dictionary
+Question 2
+2.  Wirte algorithm and flow chart find the smallest of two numbers
+ 2nd question
+Write algorithm and flow chart to find sum of series 1+2+3+…..up to N 
+
+	
+	Note: pesudo code here meant is here just steps and idea ypu use syntax may maynot be correct 
+Example for pesudo code
