@@ -1,0 +1,80 @@
+https://docs.google.com/spreadsheets/d/1_tr0UOLMDGUIJ5MjgNK-q9CWUndwMIR8/edit?gid=1669394086#gid=1669394086  Basic python ( Aug -Dec 2025) 
+
+https://docs.google.com/spreadsheets/d/1LCpgl1H_YnR1FZhdtDEusGnHHYxNkzDHF6yqaUeQCAI/edit?gid=1097490169#gid=1097490169 Advance python ( Jan 2026 - )
+
+
+https://pynative.com/ - Online python learning platform
+
+
+Course on Machine learning and LLMs
+
+Syllabus
+   Basic maths
+	1. Numerical methods in solving problens
+	2. Basics of Vector Algebra ( matrix operations )
+	3. Basics of vector calculus ( chain rule of differentiation etc.)
+Machine learning :
+	1. Machine learning basics ( training , inferencing etc.)
+	2. Traditional machine learning algorithms ( linear/logistic , Decision tree , Naïve bias)
+	3. Neural Network based algorithm ( ANN, CNN, RNN , LSTM etc.)
+	4. Introduction to Tensor flow
+LLMs:
+	1. Transformers ( Vaswani paper)
+	2. LLMs (Statical LLMs and Transfomer based LLMS like BERT T5 etc)
+	3. open source models( Hugging face), fine tuning, prompt tuning (RAG) etc.
+	4. Project 
+
+
+Difference between C/C++ and python 
+Feature	C	Python
+Language Level	Low-level (closer to Hardware)	High-level ( close to  human language)
+Syntax Style	Verbose and strict 	Simple and readable
+Compilation	Compiled	Interpreted
+Memory Management		
+Speed	Faster	Slower
+Syntax	Complex, verbose	Simple, readable
+Memory Management	Manual	Automatic
+Application Domains	Systems programming	General-purpose, high-level apps
+Learning Curve	Steeper	Easier
+
+
+
+Mid term question paper
+
+	1. Name 5 componenst of computer?
+    3. Name 4 inbuild python functions?
+     3. what is type casting in python and explain with one example?
+     4. Create a infinite loop in python using loop function( pseduo code)
+	5. Write pesudo code to swap Two Numbers using Temporary Variable
+	Ex: a=3, b=4, the program should return a=4 and b=3
+	
+	
+	
+	 2*10 ( answe any two questions)
+	1st question
+1. Name 5 diffrence in features of  between C and python ?
+Exaplin each item and its syntax and declare and example with its syntax
+	1. Numeric data type ( int , float)
+	2. strings
+	3. Lists
+	4. Tuples
+	5. Dictionary
+Question 2
+2.  Wirte algorithm and flow chart find the smallest of two numbers
+ 2nd question
+Write algorithm and flow chart to find sum of series 1+2+3+…..up to N 
+
+	
+	Note: pesudo code here meant is here just steps and idea ypu use syntax may maynot be correct 
+	Example for pesudo code
+
+
+17/10/2025
+1. List Compression examples
+2. Question on string/list/tuple searching, appending, removing , search
+3. Test algorithm execution time
+4. Open and write to a file in python
+5. Try and except example
+6. Access function in another file using import module
+
+
